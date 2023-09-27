@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [GDSC-NSUT-Website](https://gdsc-nsut.vercel.app/)
 
-- 📫 How to reach me **puneet.tech15@gmail.com**
+- 📫 How to reach me: **puneet.tech15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
