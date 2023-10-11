@@ -3,7 +3,6 @@
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" height="360px" width="380px" alt="banner" src="https://code.google.com/images/developers.png"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=puneet-amrutkar&label=Profile%20views&color=0e75b6&style=flat" alt="puneet-amrutkar" /> </p>
 
 - 🔭 I’m currently working on [venatus_web_chatbox](https://www.venatus.in/)
 
